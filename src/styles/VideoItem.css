@@ -1,0 +1,9 @@
+.saveButton {
+    text-align: right;
+}
+
+.rightAlign {
+    text-align: right;
+    padding-right: 5px;
+    /* padding: ; */
+}

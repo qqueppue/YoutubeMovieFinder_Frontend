@@ -1,0 +1,6 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'NanumGothic', 'Ubuntu';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
